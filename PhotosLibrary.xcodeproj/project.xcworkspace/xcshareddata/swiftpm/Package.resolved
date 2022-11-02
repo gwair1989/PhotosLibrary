@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "waterfalllayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Jinya/WaterfallLayout.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "4ada125c5b8fc9c1755f4b5a03ce94f054b469d1"
+      }
+    }
+  ],
+  "version" : 2
+}
